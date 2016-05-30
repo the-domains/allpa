@@ -1,0 +1,14 @@
+layout_spectrum: 0.1852846
+color:
+  saturation: 0.3603652
+  lightness: 0.5592403
+  brandStrength: 0.1098231
+  brandColors:
+    - '#FFFFFF'
+    - '#B8B9BB'
+    - '#030303'
+    - '#A8196B'
+    - '#5E4C45'
+  rhythmicContrast: 0.9057896
+typography_spectrum: 0.3335123
+name: Allpa
